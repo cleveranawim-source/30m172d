@@ -1,0 +1,23 @@
+{
+  "name": "30분 172일 말씀동행",
+  "short_name": "30분172일",
+  "description": "하루 30분씩 172일 동안 말씀 여정을 이어가는 개인 기록 앱",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f4ef",
+  "theme_color": "#315d55",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
