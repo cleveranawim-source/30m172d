@@ -1,7 +1,7 @@
 {
-  "name": "30분 172일 말씀동행",
-  "short_name": "30분172일",
-  "description": "하루 30분씩 172일 동안 말씀 여정을 이어가는 개인 기록 앱",
+  "name": "30min 172days Bible Reading",
+  "short_name": "30min172days",
+  "description": "A personal Bible reading companion for 30 minutes a day over 172 days",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f7f4ef",
